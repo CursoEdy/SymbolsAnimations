@@ -6,8 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		746731C12CD676AA0070AF25 /* SymbolsAnimations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746731C02CD676AA0070AF25 /* SymbolsAnimations.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		746731AE2CD674EE0070AF25 /* SymbolsAnimations.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SymbolsAnimations.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		746731C02CD676AA0070AF25 /* SymbolsAnimations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SymbolsAnimations.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -32,6 +37,7 @@
 		746731A52CD674EE0070AF25 = {
 			isa = PBXGroup;
 			children = (
+				746731C02CD676AA0070AF25 /* SymbolsAnimations.swift */,
 				746731B02CD674EE0070AF25 /* SymbolsAnimations */,
 				746731AF2CD674EE0070AF25 /* Products */,
 			);
@@ -119,6 +125,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				746731C12CD676AA0070AF25 /* SymbolsAnimations.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
